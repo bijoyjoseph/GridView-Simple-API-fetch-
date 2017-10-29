@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Countries</string>
+    <string name="country_list">Country List</string>
+    <string name="details">Country Details</string>
+    <string name="local_name">Regional Name : </string>
+    <string name="region">Region : </string>
+    <string name="currency">Currency : </string>
+    <string name="currency_code">Currency Code : </string>
+    <string name="alpha2_code">Alpha 2 Code : </string>
+    <string name="alpha3_code">Alpha 3 Code : </string>
+    <string name="latitude">Latitude : </string>
+    <string name="longitude">Longitude : </string>
+    <string name="subregion">Subregion : </string>
+    <string name="area">Area : </string>
+</resources>
