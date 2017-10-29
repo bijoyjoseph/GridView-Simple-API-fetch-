@@ -10,4 +10,4 @@ Description on how to use this App:
 
 3. The reason for no progress on download is because the first time the API is hit it lists all the countries which it gets as response and sometimes the Flag is different for the corresponding Country. It adjusts itself after a couple of seconds but while scrolling up or down the GridView refreshes and all the process is performed again. I have commented the progress bar code in the Adapter Class. If the progress bar is needed then you can uncomment it and run the app again.
 
-5. If the lists take too long to load lock the smartphone and unlock it again. You will see the Country List along with their corresponding Flags.
+4. ** If the lists take too long to load lock the smartphone and unlock it again. You will see the Country List along with their corresponding Flags. Please connect your device to the WiFi for quicker download of the lists **
