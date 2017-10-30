@@ -96,7 +96,7 @@ public class MainActivity extends AppCompatActivity implements NetworkUtil.Netwo
                     countryModel.setAlpha3Code(object.getString("Alpha3Code"));
                     countryModel.setLatitude(object.getString("Latitude"));
                     countryModel.setLongitude(object.getString("Longitude"));
-                    countryModel.setSubRegion(object.getString("Longitude"));
+                    countryModel.setSubRegion(object.getString("SubRegion"));
                     countryModelArrayList.add(countryModel);
                 }
             }
